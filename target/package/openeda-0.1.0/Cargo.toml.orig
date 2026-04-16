@@ -2,7 +2,5 @@
 name = "openeda"
 version = "0.1.0"
 edition = "2024"
-description="o"
-license="Apache-2.0"
 
 [dependencies]
